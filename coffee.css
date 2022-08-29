@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Lobster&display=swap');
+img{
+    height: 130px;
+    width: 130px;
+    
+    
+    
+      
+}
+.child2{
+    margin-left: 20px;
+    float: right;
+    margin-top: -65px;
+    word-spacing: 20px;
+    margin-right: 40px;
+    font-size: .55cm;
+    
+    
+    
+    
+}
+a{
+    color: white;
+}
+div{
+    background-color: #342721;
+    position: relative
+    
+    
+    
+    
+    
+}
+   
+.child h1{
+    margin-top: -80px;
+    color: white;
+    position: absolute;
+    margin-left: 600px;
+    font-family: 'DM Serif Display', serif;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    
+}
+.parent2{
+    
+    height: 500px;
+    border-radius: 20px;
+   
+    
+}
+.parent2 img{
+    height: 500px;
+    width: 1500px;
+    
+    position: absolute;
+    border-radius: 20px;
+}
+.child3{
+    margin-left: 900px;
+    position: absolute;
+    color: white;
+    font-style: inherit;
+    background: fixed;
+    font-size: 0.5cm;
+    
+    
+}
+h1{
+    margin-top: 20px;
+}
+
+.parent3{
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 20px;
+    
+    
+    
+}
+.coffee3{
+width: 250px;
+height: 420px;
+background-color: antiquewhite;
+border: 2px solid grey;
+border-radius: 20px;
+box-shadow: 10px 10px rgb(162, 169, 173);
+}
+.coffee4{
+    width: 250px;
+    height: 420px;
+    background-color: antiquewhite;
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: 10px 10px rgb(162, 169, 173);
+}
+.coffee5{
+    width: 250px;
+    height: 420px;
+    background-color: antiquewhite;
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: 10px 10px rgb(162, 169, 173);
+}
+.coffee6{
+    width: 250px;
+    height: 420px;
+    background-color: antiquewhite;
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: 10px 10px rgb(162, 169, 173);
+}
+
+.parent3 img{
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
+h4{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+button{
+    background-color: gray;
+    color: white;
+    margin-left: 70px;
+    border-radius: 20px;
+    width: 90px;
+    height: 30px;
+}
+button:hover{
+    background-color: orange;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+.parent4{
+    height: 350px;
+    
+    margin-top: 30px;
+    
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+    
+}
+.form1 button{
+    width: 100px;
+    margin-left: 20px;
+}
+.parent5{
+    padding: 20px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.text1 h2{
+    float: left;
+    margin-left: 10px;
+    color: white;
+    margin-top: 40px;  
+    border-radius: 20px;
+    
+    
+}
+.text1 i{
+    float: left;
+    margin-left: 40px;
+    margin-top: 35px;
+    color: orange;
+    border-radius: 20px;
+    
+}
+.text1 h4{
+    margin-top: px;
+    color: white;
+}
+.text1 p{
+    margin-top: -120px;
+    color: white;
+    margin-left: 650px;
+}
+.text1 p2{
+    margin-left: 650px;
+    color: white;
+    margin-top: -70px;
+}
+.text1 p3{
+    float: right;
+    margin-right: 70px;
+    margin-top: -70px;
+    color: white;
+}
+
+
+.text1 p4{
+    float: right;
+    margin-right: 155px;
+    color: white;
+}
+.text1 p5{
+    color: white;
+    font-style: oblique;
+}
+.text1 p6{
+    margin-top: 40px;
+}
+.text1 p7{
+    float: left;
+    margin-left: 600px;
+    margin-top: -20px;
+}
+.text1 p8{
+    float: right;
+    margin-top: -20px;
+    margin-right: 150px;
+}
+
